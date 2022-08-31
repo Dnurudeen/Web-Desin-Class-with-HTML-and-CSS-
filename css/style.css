@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(197, 197, 197);
+}
+
+#navbar{
+    background-color: black;
+}
+#navbar a{
+    color: #fff;
+    text-decoration: none;
+}
+#navbar a:hover{
+    color: rgb(187, 187, 187);
+}
+
+#colors{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 280px;
+}
